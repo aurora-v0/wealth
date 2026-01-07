@@ -26,8 +26,8 @@ export const meta: MetaFunction = () => {
   return [
     { charSet: 'utf-8' },
     { name: 'viewport', content: 'width=device-width,initial-scale=1' },
-    { title: 'Willin Wang Wallet' },
-    { name: 'description', content: "A Willin Wang's Work" },
+    { title: '思归' },
+    { name: 'description', content: "不见天地不思归。A Willin Wang's Work" },
     {
       name: 'keywords',
       content: ['Next.js', 'React', 'JavaScript', 'Willin Wang'].join(', ')

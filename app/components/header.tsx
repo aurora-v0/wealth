@@ -8,7 +8,7 @@ export default function MainHeader() {
       <div className='navbar bg-base-100'>
         <div className='navbar-start'>
           <LocaleLink to='/' className='btn btn-ghost normal-case text-xl'>
-            Willin Wealth
+            思归
           </LocaleLink>
         </div>
         <div className='navbar-end'>
