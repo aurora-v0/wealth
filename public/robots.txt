@@ -1,16 +1,16 @@
 User-Agent: *
-Allow: /
+Disallow: /
 
 User-Agent: *
 Disallow: /images/
 
-User-agent: Amazonbot
+User-agent: *
 Disallow: /data/
 
-User-agent: Amazonbot
+User-agent: *
 Disallow: /en/data/
 
-User-agent: Amazonbot
+User-agent: *
 Disallow: /zh/data/
 
 Host: https://domain.willin.wang
